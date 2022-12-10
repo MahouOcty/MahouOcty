@@ -5,8 +5,6 @@
  Multimedia egineering
 - 💞️ I’m looking to collaborate on ...
  Anything as long as it helps me learn more stuff
-- 📫 How to reach me ...
- Twitter: @MahouOcty
 
 <!---
 MahouOcty/MahouOcty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
